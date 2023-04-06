@@ -1,0 +1,12 @@
+
+.body{
+  display: flex;
+  text-align: center;
+
+}
+.main{
+  height: 26px;
+  background: rgb(136, 217, 228);
+  border-radius: 4px;
+  border-color: black;
+}
